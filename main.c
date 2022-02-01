@@ -1,9 +1,8 @@
 /////////////////////////////////////////////////////
-// Programers: Garth Bates, Jacob Berreth
+// Programers: Jake Berreth, Garth Bates, KC Wang
 // Class: CptS 360
-// Project: Mount_root
-// File: util.c
-// Date Completed: 
+// Project: Ext2 File System
+// Date Completed: May 2021
 /////////////////////////////////////////////////////
 
 #include <stdio.h> //standard input/output
