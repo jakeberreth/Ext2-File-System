@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////
-// Programers: Jake Berreth, Garth Bates, KC Wang
+// Programmers: Jake Berreth, Garth Bates, KC Wang
 // Class: CptS 360
 // Project: Ext2 File System
 // Date Completed: May 2021
